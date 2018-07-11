@@ -4,11 +4,17 @@
 
   Oh, GunHo and P. H. Austin, 2018: Quantifying the Oscillatory Evolution of Simulated Boundary-Layer  Cloud Fields Using Gaussian Processes, 15th Conference on Cloud Physics, American Meteorological Society, Vancouver BC, Canada
 
+* The poster is split into two Jupyter notebooks
+
+  * [Introduction](notebook/cloud_regression.ipynb)
+
+  * [Cloud size distribution]
+
 * Installation
 
   * Install https://conda.io/miniconda.html, accepting the defaults
 
-  * Download [conda_packages.txt](https://raw.githubusercontent.com/phaustin/parallel_python_course/master/conda_packages.txt) by right-clicking on the link.
+  * Download [conda_packages.txt](https://raw.githubusercontent.com/phaustin/gaussian_processes_ams_2018/master/utils/conda_packages.txt) by right-clicking on the link.
 
   * Start bash shell (osx/linux) or an anaconda shell (windows) and type:
 
