@@ -6,9 +6,9 @@
 
 * The poster is split into two Jupyter notebooks
 
-  * [Introduction](notebook/cloud_regression.ipynb)
+  * [Introduction to gaussian regression](notebook/gaussian_regression.ipynb)
 
-  * [Cloud size distribution](https://cdn.rawgit.com/phaustin/gaussian_processes_ams_2018/loh/notebook/regression.html)
+  * [Cloud size distribution](notebook/cloud_oscillation.ipynb')
 
 * Installation
 
