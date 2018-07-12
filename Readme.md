@@ -8,7 +8,7 @@
 
   * [Introduction](notebook/cloud_regression.ipynb)
 
-  * [Cloud size distribution]
+  * [Cloud size distribution](https://cdn.rawgit.com/phaustin/gaussian_processes_ams_2018/loh/notebook/regression.html)
 
 * Installation
 
