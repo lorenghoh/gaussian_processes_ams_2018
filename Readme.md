@@ -12,7 +12,7 @@
 
   * [Cloud size distribution](notebooks/cloud_oscillation.ipynb)
   
-      * [Rendered HTML](notebooks/cloud_oscillation.html)
+      * [Rendered HTML](https://gitcdn.link/repo/phaustin/gaussian_processes_ams_2018/master/notebooks/cloud_oscillation.html)
 
 * Installation
 
