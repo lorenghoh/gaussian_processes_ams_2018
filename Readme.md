@@ -10,9 +10,9 @@
 
   * [Introduction to gaussian regression](notebooks/gaussian_regression.ipynb)
 
-  * [Cloud size distribution](notebook/cloud_oscillation.ipynb)
+  * [Cloud size distribution](notebooks/cloud_oscillation.ipynb)
   
-      * [Rendered HTML](https://cdn.rawgit.com/phaustin/gaussian_processes_ams_2018/df436a91/notebook/cloud_oscillation.html)
+      * [Rendered HTML](https://cdn.rawgit.com/phaustin/gaussian_processes_ams_2018/df436a91/notebooks/cloud_oscillation.html)
 
 * Installation
 
