@@ -10,7 +10,7 @@
 
   * [Introduction to gaussian regression](notebooks/gaussian_regression.ipynb)
 
-  * [Cloud size distribution](notebooks/cloud_oscillation.ipynb)
+  * [Cloud size distribution](notebook/cloud_oscillation.ipynb)
 
 * Installation
 
