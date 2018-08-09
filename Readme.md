@@ -1,9 +1,10 @@
 # Gaussian Process Poster for Oh and Austin
 
-* This repository contains source code to produce the figures in:
+This repository contains source code to produce the figures in:
 
-  Oh, Gunho and P. H. Austin, 2018: Quantifying the Oscillatory Evolution of Simulated Boundary-Layer Cloud Fields Using Gaussian Processes, *15th Conference on Cloud Physics, American Meteorological Society*, Vancouver BC, Canada
+Oh, Gunho and P. H. Austin, 2018: Quantifying the Oscillatory Evolution of Simulated Boundary-Layer Cloud Fields Using Gaussian Processes, *15th Conference on Cloud Physics, American Meteorological Society*, Vancouver BC, Canada
 
+## Files
 * [Poster pdf](loh_austin_amscloud_2018.pdf)
 
 * The poster is split into two Jupyter notebooks
@@ -16,7 +17,7 @@
   
       * [Rendered HTML](https://gitcdn.link/repo/phaustin/gaussian_processes_ams_2018/master/notebooks/cloud_oscillation.html)
 
-* Installation
+## Installation
 
   * Install https://conda.io/miniconda.html, accepting the defaults
 
